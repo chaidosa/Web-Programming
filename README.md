@@ -1,2 +1,2 @@
 # Web-Programming
-code snippets and exercises of different modules while learning web programming 
+code snippets, exercises and small projects for different modules.
